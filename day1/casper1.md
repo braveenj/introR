@@ -1,5 +1,5 @@
 ---
-title: 1. Introduction to R Environment
+title: 1. Introduction to R Programming Environment
 author: Vikram E. Chhatre 
 date: January 31, 2020
 ---
